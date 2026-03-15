@@ -11,4 +11,4 @@ Invest : At the ₹100 threshold, it auto-routes funds into NIFTY 50 (stable mar
 
 Investment Flexibility : User has multiple investment options to select from.
 
-Prototype Link : https://www.figma.com/make/AJFmloyCw3As4Rls10bFKU/Bank-Account-Investment-Website?fullscreen=1&t=PYA0KQkH9OGaqNYp-1&preview-route=%2Flogin
+Prototype Link : https://www.figma.com/make/AJFmloyCw3As4Rls10bFKU/Bank-Account-Investment-Website?fullscreen=1&t=rzptDP2ZL8X4rb0J-1&preview-route=%2Fsettings
